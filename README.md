@@ -1,4 +1,4 @@
 # portfolio
 portfolio Afek
 
-Full Project - https://portfolio-afek.netlify.app/
+Live Project - https://portfolio-afek.netlify.app/
